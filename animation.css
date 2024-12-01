@@ -1,0 +1,16 @@
+h1, .hubble.photo {
+	animation-name: smooth-1;
+	animation-duration: 7s;
+}
+
+@keyframes smooth-1 {
+  from {
+    opacity: 0%;
+  }
+}
+
+tr:hover {
+	animation-name: colors;
+	animation-duration: 2s;
+	background-color: #24354d;
+}

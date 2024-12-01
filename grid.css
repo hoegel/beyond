@@ -1,0 +1,55 @@
+.hubble.photo {
+    grid-area: 1 / 1 / 2 / 5;
+}
+
+.sun.photo {
+    grid-area: 2 / 1;
+}
+
+.sun.description {
+    grid-area: 2 / 2 / 3 / 4;
+    background-color: #d55f12;
+}
+
+.mercury.photo {
+    grid-area: 3 / 2 / 4 / 3;
+}
+
+.mercury.description {
+    grid-area: 3 / 3 / 4 / 5;
+    background-color: #7d7d7d;
+}
+
+.venus.photo {
+    grid-area: 4 / 3 / span 1 / span 1;
+}
+
+.venus.description {
+    grid-area: 4 / 1 / span 1 / span 2;
+    background-color: #b06e17;
+}
+
+.earth.photo {
+    grid-area: 5 / 1 / span 1 / span 1;
+}
+
+.earth.description {
+    grid-area: 5 / 2 / span 1 / span 3;
+    background-color: #42485d;
+}
+
+.mars.photo {
+    grid-area: 6 / 4 / span 1 / span 1;
+}
+
+.mars.description {
+    grid-area: 6 / 2 /span 1 / span 2;
+    background-color: #ffb765;
+}
+.asteroid.description {
+    grid-area: 7 / 1 / span 1 / span 4;
+}
+
+.jw39.photo {
+    grid-area: 8 / 1 / span 1 / span 4;
+}
